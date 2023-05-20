@@ -1,0 +1,36 @@
+body{
+     
+    background-color: gray
+}
+#Titulo{
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom:50px ;
+}
+.Imagen{
+    float: left;
+    margin-right: 80px;
+}
+ul{
+    margin-bottom: 200px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+    width: 80%;
+    max-width: 200%;
+    border-collapse: collapse;
+    text-align: center;
+      }
+th{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}      
+td{
+        border: 1px solid #ccc;
+        padding: 8px;
+        font-family: cursive;
+}    
